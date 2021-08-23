@@ -1,3 +1,36 @@
 .caixa{
-    display: flex;
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+    background-color: #333333;
+    width: 100%;
+    height: 64px;
+}
+.memes{
+    display: block;
+}
+.tony{
+    border: 1px groove #EAEAEA;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background-color: #ffffff;
+    width: 640px;
+    height:auto ;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tony img{
+    width: 640px;
+}
+.tony h1{
+    text-align: center;
+    color: #AA4653;
+    font-size: 40px;
+}
+.tony h6{
+    text-align: center;
+    color: #000;
+    text-align: 10px;
+    height: 30px;
 }
